@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- 
 # @Time : 2019-01-10 16:21 
 # @Author : hexiaoxiong
-# @Site :  
 # @File : paper2.py 
 
 import numpy as np
